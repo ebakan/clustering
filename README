@@ -1,0 +1,10 @@
+Implementations of the [OPTICS](http://en.wikipedia.org/wiki/OPTICS_algorithm) and [DBSCAN](http://en.wikipedia.org/wiki/DBSCA) clustering algorithms in Ruby
+
+OPTICS implementation derived from https://gist.github.com/ryangomba/1724881
+
+Circle plotter from http://www.mathworks.com/matlabcentral/fileexchange/2876-draw-a-circle
+
+To test:
+  run geo.m in MATLAB
+To use:
+  require 'clustering' in your ruby file and use as in test_clustering.rb
